@@ -22,6 +22,6 @@ rm -rf XBADDO
 
 git clone https://github.com/JEWELFUND/XBADDO
 cd XBADDO
-python UTR_enc.py
+python3 UTR_enc.py
 
 
