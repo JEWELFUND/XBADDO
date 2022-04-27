@@ -19,10 +19,10 @@ pip install requests bs4 futures
 
 pip install requests bs4 futures cython
 
-rm -rf 
+rm -rf XBADDO
 
 git clone https://github.com/JEWELFUND/XBADDO
 cd XBADDO
-python3 
+python fukkk.py 
 
 
